@@ -1,5 +1,4 @@
 class Application < Sinatra::Base
-#controller
   get '/' do
     erb :index
   end
