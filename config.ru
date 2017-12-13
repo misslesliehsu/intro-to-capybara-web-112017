@@ -1,4 +1,4 @@
 # Write your code here!
-require 'app'
+require './app'
 
 run Application
