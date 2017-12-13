@@ -1,5 +1,5 @@
 # Write your code here!
-require './app'
+require_relative './app'
 require 'sinatra'
 
 
